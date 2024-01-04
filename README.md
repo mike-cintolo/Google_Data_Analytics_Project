@@ -1,8 +1,8 @@
 # Google_Data_Analytics_Project
 Programs to complete my Google Data Analytics Project
 
-## Kaggle FitBitzed Fitness Tracker Data
-![FitBitzed Fitness Tracker Data]((https://www.kaggle.com/datasets/arashnic/fitbit))
+## Kaggle FitBit Fitness Tracker Data
+![FitBit Fitness Tracker Data]((https://www.kaggle.com/datasets/arashnic/fitbit))
 
 ## Completed Project on Kaggle
 ![Bellabeat Data Analysis with R](([https://www.kaggle.com/datasets/arashnic/fitbit](https://www.kaggle.com/code/michaelcintolo/bellabeat-data-analysis-with-r)))
