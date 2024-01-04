@@ -2,6 +2,7 @@
 Programs to complete my Google Data Analytics Project
 
 ## Kaggle FitBit Fitness Tracker Data
+- https://www.kaggle.com/datasets/arashnic/fitbit
 ![FitBit Fitness Tracker Data]((https://www.kaggle.com/datasets/arashnic/fitbit))
 
 ## Completed Project on Kaggle
