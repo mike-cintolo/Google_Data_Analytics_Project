@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @mike-cintolo
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently working on a personal project to collect and archive video and audio files
-- 💞️ I’m looking to collaborate on almost anything that will help me along the path to learning more about Data Science
-- 📫 How to reach me mike_cintolo@yahoo.com
+# Google_Data_Analytics_Prtoject
+Programs to complete my Google Data Analytics Project
+
+# Kaggle FitBitzed Fitness Tracker Data
+![FitBitzed Fitness Tracker Data]((https://www.kaggle.com/datasets/arashnic/fitbit))
+
+# Completed Project on Kaggle
+![Bellabeat Data Analysis with R](([https://www.kaggle.com/datasets/arashnic/fitbit](https://www.kaggle.com/code/michaelcintolo/bellabeat-data-analysis-with-r)))
 
 <!---
 mike-cintolo/mike-cintolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
